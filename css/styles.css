@@ -1,0 +1,34 @@
+body {
+	font-family: Arial, sans-serif;
+}
+
+#options {
+	width: 90%;
+	height: 120px;
+	margin: 15px auto;
+	background-color: #CDCDCD;
+	padding-top: 5px;
+	text-align: center;
+	border-radius: 26px;
+}
+
+#options h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+form {
+	display: inline-block;
+}
+
+.sketchpad {
+	width: 1000px;
+	margin: 15px auto;
+	overflow: auto;
+}
+
+.square {
+	float: left;
+	background-color: black;
+	display: inline-block;
+}
